@@ -37,7 +37,7 @@ const Post = () => {
 
 			<div className="flex flex-col items-center">
 				<form
-					className="flex flex-col p-10 bg-purple-100 rounded-lg shadow-lg w-[400px] space-y-4"
+					className="flex flex-col p-10 bg-purple-100 rounded-lg shadow-lg w-[450px] space-y-4"
 					onSubmit={handleSubmit}
 				>
 					{/* Title Input */}
